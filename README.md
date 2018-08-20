@@ -1,4 +1,4 @@
-## Face Detection in Rrealtime
+## Face Detection in Realtime
 This repository is the implementation of face detection in real time using YOLOv3 framework with keras(tensorflow backend). For using in embeded devices, so I choose a computation-efficient CNN architecture named ShuffleNet version 2 and train it from scratch(about 50 epoches) on [FDDB](http://vis-www.cs.umass.edu/fddb/index.html) Datasets.
 
 For some reasons,I just public the pre_trained weights, inference code and network architecture, if you want to know more,please feel free to drop a comment or [contact me](gao.gzhou#gmail.com).
